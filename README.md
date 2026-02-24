@@ -12,3 +12,11 @@ Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into
 - Account and report on organizational carbon emissions aligning business to Environmental Social Governance principles. 
 - Leads cross-sectional events aligned with climate and sustainability goals.
 - Biochemical research and analysis 
+
+## Skills 
+- **Analytics Tools:** Power BI, Tableau, Excel
+- **Databases:** MySQL, BigQuery
+- **Programing:** Python (Pandas, Matplotlib), R, DAX 
+- **Collaboration:** GitHub, Google Workspace, Notion, Airtable, Zoom, Slack, Teams
+- **Concepts:** ETL, Data modeling, KPI reporting, Dashboard Design, Data cleaning, AI & Workflow Automations
+- **Climate & Sustainability:** Green digital skills & Event Management.
