@@ -1,10 +1,12 @@
 # Sustainability Analyst
-Data Analysis | Business Intelligence | Climate Tech | AI Workflow Automations | AirTable Builder
+Data & BI Analysis | Climate Tech | AI Workflow Automations | Program Management 
 
 ## About Me  
 Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into smarter, more sustainable decisions. I analyze data, build dashboards and reports that highlights business and environmental impact, automate workflows to cut waste, and design solutions that help organizations drive both business performance and climate resilience
+
+## Educational Background: BSc. Biochemistry🧬🦠🔬
  
-**⚙️Services**  
+**⚙️What I Do**  
 - Builds end-to-end ETL pipeline to Extract Transform and Load data while managing databases.
 - Clean, model data and design intuitive and insight driven dashboards for KPI monitoring to support data-driven decision making.
 - Designs and automate AI workflows that scales operational efficiency and business impact.
@@ -17,6 +19,8 @@ Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into
 - **Analytics Tools:** Power BI, Tableau, Excel
 - **Databases:** MySQL, BigQuery
 - **Programing:** Python (Pandas, Matplotlib), R, DAX 
-- **Collaboration:** GitHub, Google Workspace, Notion, Airtable, Zoom, Slack, Teams
+- **Collaboration:** GitHub, Google Workspace, Notion, Airtable(Builder), Zoom, Slack, Teams
 - **Concepts:** ETL, Data modeling, KPI reporting, Dashboard Design, Data cleaning, AI & Workflow Automations
 - **Climate & Sustainability:** Green digital skills & Event Management.
+
+*Open to collaborating on climate tech, sustainability analytics, and data-driven innovation projects where measurable impact and strategic execution are valued.*
