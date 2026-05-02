@@ -2,7 +2,7 @@
 Data & BI Analysis | Climate Tech | AI Workflow Automations | Program Management 
 
 ### About Me  
-Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into smarter, more sustainable decisions. I analyze data, build dashboards and reports that highlights business and environmental impact, automate workflows to cut waste, and design solutions that help organizations drive both business performance and climate resilience
+Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into smarter, more sustainable decisions. I analyze data, build dashboards and reports that highlights business and environmental impact, automate workflows to cut waste, and design solutions that help organizations drive both business performance and climate resilience. Currently the Head of Events and City Leads (Africa) at 4Ward Earth (volunteer role), leading the design and execution of climate-focused initiatives across multiple African cities.
 
 ### Educational Background: 
 BSc. Biochemistry🧬🦠🔬
