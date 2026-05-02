@@ -4,8 +4,8 @@ Data & BI Analysis | Climate Tech | AI Workflow Automations | Program Management
 ## About Me  
 Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into smarter, more sustainable decisions. I analyze data, build dashboards and reports that highlights business and environmental impact, automate workflows to cut waste, and design solutions that help organizations drive both business performance and climate resilience
 
-## Educational Background: BSc. Biochemistry🧬🦠🔬
- 
+## Educational Background: **BSc. Biochemistry🧬🦠🔬**
+
 **⚙️What I Do**  
 - Builds end-to-end ETL pipeline to Extract Transform and Load data while managing databases.
 - Clean, model data and design intuitive and insight driven dashboards for KPI monitoring to support data-driven decision making.
