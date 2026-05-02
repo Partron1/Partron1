@@ -1,10 +1,10 @@
-# Sustainability Analyst
+## Sustainability Analyst
 Data & BI Analysis | Climate Tech | AI Workflow Automations | Program Management 
 
-## About Me  
+### About Me  
 Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into smarter, more sustainable decisions. I analyze data, build dashboards and reports that highlights business and environmental impact, automate workflows to cut waste, and design solutions that help organizations drive both business performance and climate resilience
 
-## Educational Background: 
+### Educational Background: 
 BSc. Biochemistry🧬🦠🔬
 
 **⚙️What I Do**  
@@ -16,7 +16,7 @@ BSc. Biochemistry🧬🦠🔬
 - Leads cross-sectional events aligned with climate and sustainability goals.
 - Biochemical research and analysis 
 
-## Skills 
+### Skills 
 - **Analytics Tools:** Power BI, Tableau, Excel
 - **Databases:** MySQL, BigQuery
 - **Programing:** Python (Pandas, Matplotlib), R, DAX 
