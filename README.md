@@ -4,7 +4,7 @@ Data & BI Analysis | Climate Tech | AI Workflow Automations | Program Management
 ### The Problem
 For many SMEs in Africa, Scope 3 emissions are the biggest sustainability challenge. These emissions generated across suppliers, transportation, product use, and waste often make up the largest share of a business's carbon footprint, yet they are the hardest to measure and manage because they occur outside a company's direct operations.
 
-*Unfortunately, most existing carbon accounting platforms are built for large enterprises and are often too expensive, complex, and resource-intensive for SMEs. As a result, many African businesses struggle to meet growing ESG expectations, access sustainable finance, and remain competitive in global supply chains.*
+*Unfortunately, most existing carbon accounting tools are built for large enterprises and are often too expensive, complex, and resource-intensive for SMEs. As a result, many African businesses struggle to meet growing ESG expectations, access sustainable finance, and remain competitive in global supply chains.*
 
 ### My Solution
 At Tekstain Nexus, we believe African SMEs shouldn't be left behind in the transition to sustainable business. That's why we're building affordable, AI-powered ESG and carbon management solutions using trusted tools like Airtable, Power BI, and Tableau, combined with globally recognized ESG and GHG accounting standards.
