@@ -2,7 +2,7 @@
 Data & BI Analysis | Climate Tech | AI Workflow Automations | Program Management 
 
 ### The Problem
-For many SMEs across Africa, Scope 3 emissions represent the largest and most difficult part of their carbon footprint. These emissions originate throughout the value chain—including purchased goods, transportation, business travel, product use, and waste and often account for more than 70% of an organization's total emissions. Yet because they occur outside a company's direct operations, they are notoriously difficult to measure and manage.
+For many SMEs across Africa, Scope 3 emissions represent the largest and most difficult part of their carbon footprint. These emissions originate throughout the value chain including purchased goods, transportation, business travel, product use, and waste and often account for more than 70% of an organization's total emissions. Yet because they occur outside a company's direct operations, they are notoriously difficult to measure and manage.
 
 *While ESG reporting and carbon disclosure are becoming increasingly important for accessing finance, winning contracts, and meeting supply chain requirements, most carbon accounting platforms are designed for large enterprises. They are often expensive, technically complex, and require dedicated sustainability teams that most African SMEs simply do not have.*
 
