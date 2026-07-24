@@ -2,14 +2,25 @@
 Data & BI Analysis | Climate Tech | AI Workflow Automations | Program Management 
 
 ### The Problem
-For many SMEs in Africa, Scope 3 emissions are the biggest sustainability challenge. These emissions generated across suppliers, transportation, product use, and waste often make up the largest share of a business's carbon footprint, yet they are the hardest to measure and manage because they occur outside a company's direct operations.
+For many SMEs across Africa, Scope 3 emissions represent the largest and most difficult part of their carbon footprint. These emissions originate throughout the value chain—including purchased goods, transportation, business travel, product use, and waste and often account for more than 70% of an organization's total emissions. Yet because they occur outside a company's direct operations, they are notoriously difficult to measure and manage.
 
-*Unfortunately, most existing carbon accounting tools are built for large enterprises and are often too expensive, complex, and resource-intensive for SMEs. As a result, many African businesses struggle to meet growing ESG expectations, access sustainable finance, and remain competitive in global supply chains.*
+*While ESG reporting and carbon disclosure are becoming increasingly important for accessing finance, winning contracts, and meeting supply chain requirements, most carbon accounting platforms are designed for large enterprises. They are often expensive, technically complex, and require dedicated sustainability teams that most African SMEs simply do not have.*
 
-### My Solution
-At Tekstain Nexus, we believe African SMEs shouldn't be left behind in the transition to sustainable business. That's why we're building affordable, AI-powered ESG and carbon management solutions using trusted tools like Airtable, Power BI, and Tableau, combined with globally recognized ESG and GHG accounting standards.
+As a result, thousands of African businesses remain excluded from the growing low-carbon economy—not because they lack commitment, but because they lack affordable, practical tools.
 
-*Our platform helps businesses easily collect sustainability data, measure Scope 1, 2, and 3 emissions, generate ESG reports, and receive AI-driven insights to identify emission hotspots and improvement opportunities. By making carbon accounting simpler, more affordable, and easier to use, we empower SMEs to become ESG-ready, access new business opportunities, and compete confidently in a low-carbon economy.*
+### Our Solution
+Tekstain Nexus is building affordable, AI-enabled ESG and carbon management solutions designed specifically for African SMEs.
+
+*Instead of requiring businesses to adopt costly enterprise software, we combine accessible digital platforms such as Airtable, Microsoft Power BI, and Tableau with internationally recognized ESG frameworks and GHG accounting standards to create a practical, scalable solution.*
+
+### Our platform enables businesses to:
+
+- Collect sustainability and operational data through simple digital workflows.
+- Measure and track Scope 1, 2, and 3 greenhouse gas emissions.
+- Generate ESG and carbon reports aligned with global reporting standards.
+- Receive AI-driven insights that identify emission hotspots, operational inefficiencies, and opportunities to reduce costs and improve sustainability performance.
+
+*By making carbon accounting accessible, affordable, and actionable, Tekstain Nexus helps African SMEs strengthen their ESG performance, unlock sustainable finance opportunities, meet customer and regulatory expectations, and compete successfully in an increasingly low-carbon global economy.*
 
 ### About Me  
 Hi, I’m Francis🙋a Sustainability Analyst 🤖 passionate about turning data into smarter, more sustainable decisions. I analyze data, build dashboards and reports that highlights business and environmental impact, automate workflows to cut waste, and design solutions that help Small and medium businesses drive both business performance and climate resilience. Currently the Head of Events and City Leads (Africa) at 4Ward Earth (volunteer role), leading the design and execution of climate-focused initiatives across multiple African cities.
