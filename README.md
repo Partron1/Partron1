@@ -16,7 +16,7 @@ BSc. Biochemistry🧬🦠🔬
 - Leads cross-sectional events aligned with climate and sustainability goals.
 - Biochemical research and analysis 
 
-### Tech Stacks & Skills 
+**Tech Stack & Skills** 
 - **Analytics Tools:** Power BI, Tableau, Excel
 - **Databases:** MySQL, BigQuery
 - **Programing:** Python (Pandas, Matplotlib), R, DAX 
