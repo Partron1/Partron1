@@ -25,7 +25,7 @@ BSc. Biochemistry🧬🦠🔬
 - **Concepts:** ETL, Data modeling, KPI reporting, Dashboard Design, Data cleaning, AI & Workflow Automations
 - **Climate & Sustainability:** Green digital skills & Event Management.
 
-## Certifications
+### Certifications
 - **DataCamp:** [Introduction To Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/9c0b43dca3a6d94bc04bc2cd9e4131231b01c947?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink)    
 - **Cisco Academy:** [Introduction to Greenhouse Gas Accounting for IT](https://www.credly.com/badges/f36ef4a9-81d7-4bd3-87e7-e0275ce518ed/public_url) 
 - **Google:** [Business Intelligence Certificate](https://www.credly.com/badges/bd554006-162a-4209-8e54-e74d541168ea/public_url), Coursera 
